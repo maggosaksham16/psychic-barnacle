@@ -11,6 +11,7 @@
         android:layout_height="wrap_content"
         android:text="Hello Welcome to the World of Programming!"
         android:textColor="@color/colorPrimaryDark"
+        android:textAllCaps="true"
         android:textSize="36dp"
 >>>>>>> master
         app:layout_constraintBottom_toBottomOf="parent"
