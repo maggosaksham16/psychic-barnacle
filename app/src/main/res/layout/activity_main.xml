@@ -10,6 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="BJP!"
+        android:gravity="center"
         android:textColor="@color/colorPrimaryDark"
         android:textAllCaps="true"
         android:textSize="36dp"
